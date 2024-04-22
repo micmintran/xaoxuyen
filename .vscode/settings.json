@@ -3,6 +3,6 @@
     "terminal.integrated.fontFamily": "Lekton Nerd Font Mono",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.fontWeight": "800",
-    "terminal.integrated.lineHeight": 1.2,
-    "terminal.integrated.env.windows": {},
+    "terminal.integrated.lineHeight": 1.2
+    },
 }
